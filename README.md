@@ -10,8 +10,7 @@ This project is an **Anti-Money Laundering (AML) Transaction Monitoring System**
 - **Automated Email Alerts**: Sends alerts with a report of flagged transactions.
 - **CSV File Export**: Allows exporting of suspicious transactions to CSV format for analysis.
   
-## Video Demo
-[![Watch the demo](https://img.youtube.com/vi/2hC-rVhY9ls/0.jpg)](https://youtu.be/2hC-rVhY9ls)
+
 
 Click on the image above to watch the video demonstration.
 
