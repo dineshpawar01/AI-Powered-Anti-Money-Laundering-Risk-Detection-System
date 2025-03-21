@@ -9,34 +9,8 @@ This project is an **Anti-Money Laundering (AML) Transaction Monitoring System**
 - **Machine Learning Integration**: Utilizes ML models for fraud detection.
 - **Automated Email Alerts**: Sends alerts with a report of flagged transactions.
 - **CSV File Export**: Allows exporting of suspicious transactions to CSV format for analysis.
-  
 
 
-Click on the image above to watch the video demonstration.
-
-
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/SauravBedse223/Anti-Money-Laundering-Detection-and-alert-generation.git
-    cd Anti-Money-Laundering-Detection-and-alert-generation
-    ```
-
-2. Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Set up your email credentials:
-    - In the `app.py` file, update the `sender_email` and `sender_password` with your email and app-specific password for sending alerts.
-
-4. Run the application:
-    ```bash
-    python app.py
-    ```
-
-5. Open the application in your browser at `http://127.0.0.1:5000`.
 
 ## Project Structure
 
